@@ -1,0 +1,11 @@
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Debug\ImageOptimize.exe.config
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Debug\ImageOptimize.exe
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Debug\ImageOptimize.pdb
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Debug\ImageOptimize.Main.resources
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Debug\ImageOptimize.Properties.Resources.resources
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Debug\ImageOptimize.csproj.GenerateResource.Cache
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Debug\ImageOptimize.exe
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Debug\ImageOptimize.pdb
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Debug\ImageOptimize.csprojResolveAssemblyReference.cache

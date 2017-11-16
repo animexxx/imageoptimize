@@ -1,0 +1,18 @@
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Release\ImageOptimize.exe.config
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.csprojResolveAssemblyReference.cache
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.Main.resources
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.Properties.Resources.resources
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.csproj.GenerateResource.Cache
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.exe
+c:\users\duy\documents\visual studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.pdb
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Release\ImageOptimize.exe.manifest
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Release\ImageOptimize.application
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Release\ImageOptimize.exe
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Release\ImageOptimize.pdb
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Release\Magick.NET-Q16-AnyCPU.dll
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\bin\Release\Magick.NET-Q16-AnyCPU.xml
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.exe.manifest
+C:\Users\DUY\Documents\Visual Studio 2015\Projects\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.application
+C:\Users\DUY\Dropbox\ImageOptimize\ImageOptimize\bin\Release\ImageOptimize.exe.config
+C:\Users\DUY\Dropbox\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.exe
+C:\Users\DUY\Dropbox\ImageOptimize\ImageOptimize\obj\Release\ImageOptimize.pdb

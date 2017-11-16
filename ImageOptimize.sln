@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageOptimize", "ImageOptimize\ImageOptimize.csproj", "{466D5DF9-FA94-4A7D-BE56-A2D34B3C12C8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{3EF43B2E-2CCC-4918-989F-FE7E99796B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{466D5DF9-FA94-4A7D-BE56-A2D34B3C12C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466D5DF9-FA94-4A7D-BE56-A2D34B3C12C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466D5DF9-FA94-4A7D-BE56-A2D34B3C12C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466D5DF9-FA94-4A7D-BE56-A2D34B3C12C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF43B2E-2CCC-4918-989F-FE7E99796B9B}.Debug|Any CPU.ActiveCfg = Debug
+		{3EF43B2E-2CCC-4918-989F-FE7E99796B9B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
